@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "./synacor"
+    "github.com/wdalmut/synacor-vm-go/synacor"
     "flag"
 )
 

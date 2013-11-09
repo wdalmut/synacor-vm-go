@@ -1,5 +1,7 @@
 # Synacor VM
 
+[![Build Status](https://travis-ci.org/wdalmut/synacor-vm-go.png?branch=master)](https://travis-ci.org/wdalmut/synacor-vm-go)
+
 Synacor challenge https://challenge.synacor.com/
 
 ## The source code
