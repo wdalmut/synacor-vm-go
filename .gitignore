@@ -1,0 +1,5 @@
+*.test
+*.sw*
+bin
+/vm
+/pkg
