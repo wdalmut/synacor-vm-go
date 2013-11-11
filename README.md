@@ -11,20 +11,20 @@ This is my first project in golang!
 ## Build it
 
 ```shell
-$ go build ./src/vm.go
+$ go build main/vm.go
 $ ./vm challenge.bin
 ```
 
 or you can run it without building it
 
 ```shell
-$ go run ./src/vm.go challenge.bin
+$ go run main/vm.go challenge.bin
 ```
 
 ## Test it
 
 ```shell
-$ go test ./src/synacor
+$ go test ./synacor
 ```
 
 That's all!
