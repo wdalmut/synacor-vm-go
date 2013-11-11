@@ -58,7 +58,7 @@ func (vm *VM)Run() {
         word := vm.op()
         switch word {
             case 0:
-                break
+                os.Exit(0)
             case 1:
                 vm.setOp()
             case 2:
